@@ -1,6 +1,6 @@
 <h1 align="center">🇺🇦 <a href="https://phpunit.de/stand-with-ukraine.html">UKRAINE NEEDS YOUR HELP NOW!</a></h1>
 
-# PHPUnit
+# PHPUnit 
 
 [![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v/stable.png)](https://packagist.org/packages/phpunit/phpunit)
 [![CI Status](https://github.com/sebastianbergmann/phpunit/workflows/CI/badge.svg)](https://github.com/sebastianbergmann/phpunit/actions)
@@ -19,7 +19,7 @@ $ wget https://phar.phpunit.de/phpunit-X.Y.phar
 $ php phpunit-X.Y.phar --version
 ```
 
-Please replace `X.Y` with the version of PHPUnit you are interested in.
+Please replace `X.Y` with the version of PHPUnit you are interested in..
 
 Alternatively, you may use [Composer](https://getcomposer.org/) to download and install PHPUnit as well as its dependencies. Please refer to the "[Getting Started](https://phpunit.de/getting-started-with-phpunit.html)" guide for details on how to install PHPUnit.
 
